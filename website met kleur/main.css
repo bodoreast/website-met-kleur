@@ -1,0 +1,89 @@
+body {
+    background-color: dodgerblue; color: black;
+}
+header{
+    background-color: #ff4500;
+    color: blueviolet;
+    width: 40%;
+    height: 50px;
+}
+div{
+    width: 100%;
+}
+#Kolom1A{
+    background-color: #FF00FF;
+}
+#Kolom1A span {
+    background-color: #f5f5f5;
+}
+#Kolom2A{
+    background-color: #FF33FF;
+}
+#Kolom3A{
+    background-color: #FF66FF;
+}
+#Kolom3A span {
+    background-color: #EFEF00;
+}
+#Kolom4A{
+    background-color: #FF99FF;
+}
+#Kolom1B{
+    background-color: #FF00CC;
+}
+#Kolom1B span {
+    background-color: #00FFFF;
+}
+#Kolom2B{
+    background-color: #FF33CC;
+}
+#Kolom3B{
+    background-color: #FF66CC;
+}
+#Kolom3B span {
+    background-color: #87CEFA;
+}
+#Kolom4B{
+    background-color: #FF99CC; 
+}
+#Kolom1C{
+    background-color: #FF0099;
+}
+#Kolom1C span {
+    background-color: #9ACD32;
+}
+#Kolom2C{
+    background-color: #FF3399;
+}
+#Kolom3C{
+    background-color: #FF6699;
+}
+#Kolom3C span {
+    background-color: red;
+}
+#Kolom4C{
+    background-color: #FF9999;
+}
+#Kolom1D{
+    background-color: #FF0066
+}
+#Kolom1D span {
+    background-color: #FFDEAD;
+}
+#Kolom2D{
+    background-color: #FF3366;
+}
+#Kolom3D{
+    background-color: #FF6666;
+}
+#Kolom3D span {
+    background-color: fuchsia;
+}
+#Kolom4D{
+    background-color: #FF9966;
+}
+footer{
+    background-color: blue;
+    width: 100%;
+    height: 200px;
+}
